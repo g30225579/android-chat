@@ -95,8 +95,8 @@ android {
             HMS_APP_ID     : "",
 
             // 小米相关应用参数
-            XIAOMI_APP_ID  : "",
-            XIAOMI_APP_KEY : "",
+            XIAOMI_APP_ID  : "2882303761518275000",
+            XIAOMI_APP_KEY : "5201827569000",
             // for jpush
             XIAOMI_APPID   : "MI-小米的APPID",
             XIAOMI_APPKEY  : "MI-小米的APPKEY",
